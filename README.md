@@ -114,4 +114,4 @@ My path to product started in hardware. These experiences shaped how I think abo
 
 ---
 
-*I'm looking for roles in deployment strategy and product management where I can combine operational thinking with technical depth. If you're building something where "how it works in the real world" matters as much as "how it works in the demo," I'd love to talk.*
+*Open to product management and deployment strategy roles where operational thinking meets technical depth. If you care as much about "how it works in the real world" as "how it works in the demo," I'd love to talk.*
