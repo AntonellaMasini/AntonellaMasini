@@ -78,6 +78,8 @@ A deployed, live party app. Real-time queue with vote-weighted ordering, host-on
 
 My path to product started in hardware. These experiences shaped how I think about deploying systems, debugging in the field, and translating ambiguous signals into action:
 
+🎸 **[Ukulele Practice Tracker](https://antomasini98.wixsite.com/portfolio/ukelele-practice-tracker)** — A feedback loop system for music practice: logging interface → insight dashboards → reflection layer. Explored how data framing affects motivation and perceived progress without ML or instruction — just better representation.
+
 🏥 **[PNAT Medical Device](https://antomasini98.wixsite.com/portfolio/pnat-medical-device-product-design)** — Senior design project at MIT (2.009). Built a peripheral neuropathy tester for at-home diabetes monitoring. Led user research, then the XY motion system design. Learned how sensing systems need to be designed for trust, not just accuracy.
 
 🖨️ **[Fuse 1+ Root Cause Analysis](https://antomasini98.wixsite.com/portfolio/about-3)** — At Formlabs, traced vague "prints coming out wrong" complaints to a specific preprint routine mismatch. Ran systematic experiments, eliminated environmental hypotheses with data, identified the real cause (process timing), and delivered both an immediate software fix and a long-term hardware agitator for future materials. Expanded printable polymers from 1 to 8+.
@@ -85,8 +87,6 @@ My path to product started in hardware. These experiences shaped how I think abo
 🏭 **[HydroYo — From Ideation to Mass Production](https://antomasini98.wixsite.com/portfolio/hydroyo)** — MIT capstone (2.007). Took a product from concept to 50 manufactured units in one semester. Ran statistical process control (X-bar charts, Cpk analysis), coded cost models comparing additive vs. injection molding, and optimized assembly throughput from 1:45 to under 1:00 per unit. A crash course in manufacturing operations and data-driven production decisions.
 
 ♿ **[CANDI — Multisensory Thermostat](https://antomasini98.wixsite.com/portfolio/candi)** — MIT 2.00 Design course. Built an accessible thermostat overlay for a visually impaired user. Led user research, designed the sensory-to-audio translation system, and learned that the best interfaces don't add features — they translate information across modalities.
-
-🎸 **[Ukulele Practice Tracker](https://antomasini98.wixsite.com/portfolio/ukelele-practice-tracker)** — A feedback loop system for music practice: logging interface → insight dashboards → reflection layer. Explored how data framing affects motivation and perceived progress without ML or instruction — just better representation.
 
 ---
 
