@@ -6,6 +6,8 @@ I build AI systems that solve real operational problems, the kind where vague cu
 
 Most of my work sits at the intersection of **product thinking** and **hands-on engineering**: identifying where a process breaks down, building the system that fixes it, and measuring whether it actually worked. I've done this across hardware (3D printers, medical devices, fuel cells), software (AI agents, real-time apps, backend systems), and operations (support ticket pipelines, content optimization, deployment workflows).
 
+*Open to product management and deployment strategy roles where operational thinking meets technical depth. If you care as much about "how it works in the real world" as "how it works in the demo," I'd love to talk.*
+
 🔗 [Portfolio](https://antomasini98.wixsite.com/portfolio)
 
 ---
@@ -110,8 +112,5 @@ My path to product started in hardware. These experiences shaped how I think abo
 
 **Massachusetts Institute of Technology** — BSc Mechanical Engineering, concentration in Computer Science
 
-*Breakthrough Junior Challenge Scholarship Recipient* — Won a full scholarship for a [video on quantum entanglement](https://antomasini98.wixsite.com/portfolio) that reached a global audience.
+*Breakthrough Junior Challenge Scholarship Recipient* — Won a full scholarship for a [video on quantum entanglement](https://www.youtube.com/watch?v=4q-nBVzFDII&t=1s) that reached a global audience.
 
----
-
-*Open to product management and deployment strategy roles where operational thinking meets technical depth. If you care as much about "how it works in the real world" as "how it works in the demo," I'd love to talk.*
