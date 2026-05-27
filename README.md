@@ -1,10 +1,10 @@
-# Hi, I'm Antonella 👋
+# Welcome! I'm Antonella 👋
 
-I build AI systems that solve real operational problems — the kind where vague customer complaints become $195K in annual savings, or a single WhatsApp message replaces 30 minutes of phone calls in a language you don't speak.
+I'm an MIT Mechanical Engineering & CS grad, originally from Peru -first in my family to go to college. I've lived and worked across Boston, NYC, Southeast Asia, and Madrid. 
+
+I build AI systems that solve real operational problems, the kind where vague customer complaints become $195K in annual savings, or a single WhatsApp message replaces 30 minutes of phone calls in a language you don't speak.
 
 Most of my work sits at the intersection of **product thinking** and **hands-on engineering**: identifying where a process breaks down, building the system that fixes it, and measuring whether it actually worked. I've done this across hardware (3D printers, medical devices, fuel cells), software (AI agents, real-time apps, backend systems), and operations (support ticket pipelines, content optimization, deployment workflows).
-
-I'm an MIT Mechanical Engineering & CS grad, originally from Peru — first in my family to go to college. I've lived and worked across Boston, NYC, Southeast Asia, and Madrid.
 
 🔗 [Portfolio](https://antomasini98.wixsite.com/portfolio)
 
@@ -12,7 +12,7 @@ I'm an MIT Mechanical Engineering & CS grad, originally from Peru — first in m
 
 ## What I Work On
 
-🤖 **AI agents**: end-to-end autonomous systems — voice calls, insurance scraping, appointment booking, calendar integration
+🤖 **AI agents**: end-to-end autonomous systems: voice calls, insurance scraping, appointment booking, calendar integration
 
 📊 **Operations intelligence**: turning raw ticket data into executive briefs, anomaly detection, opportunity sizing, and automated pipelines
 
