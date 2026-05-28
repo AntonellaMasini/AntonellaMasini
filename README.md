@@ -2,7 +2,7 @@
 
 I'm an MIT Mechanical Engineering & CS grad, originally from Peru. I've lived and worked across Boston, NYC, Southeast Asia, and Madrid. 
 
-I build AI systems that solve real operational problems, the kind where vague customer complaints become $195K in annual savings, or a single WhatsApp message replaces 30 minutes of phone calls in a language you don't speak.
+I build AI systems that solve real operational problems, the kind where a 3-month reporting process becomes a 1-week pipeline, or a single WhatsApp message replaces 30 minutes of phone calls in a language you don't speak.
 
 Most of my work sits at the intersection of **product thinking** and **hands-on engineering**: identifying where a process breaks down, building the system that fixes it, and measuring whether it actually worked. I've done this across hardware (3D printers, medical devices, fuel cells), software (AI agents, real-time apps, backend systems), and operations (support ticket pipelines, content optimization, deployment workflows).
 
