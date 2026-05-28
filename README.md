@@ -1,12 +1,12 @@
 # Welcome! I'm Antonella 👋
 
-I'm an MIT Mechanical Engineering & CS grad, originally from Peru -first in my family to go to college. I've lived and worked across Boston, NYC, Southeast Asia, and Madrid. 
+I'm an MIT Mechanical Engineering & CS grad, originally from Peru. I've lived and worked across Boston, NYC, Southeast Asia, and Madrid. 
 
 I build AI systems that solve real operational problems, the kind where vague customer complaints become $195K in annual savings, or a single WhatsApp message replaces 30 minutes of phone calls in a language you don't speak.
 
 Most of my work sits at the intersection of **product thinking** and **hands-on engineering**: identifying where a process breaks down, building the system that fixes it, and measuring whether it actually worked. I've done this across hardware (3D printers, medical devices, fuel cells), software (AI agents, real-time apps, backend systems), and operations (support ticket pipelines, content optimization, deployment workflows).
 
-*Open to product management and deployment strategy roles where operational thinking meets technical depth. If you care as much about "how it works in the real world" as "how it works in the demo," I'd love to talk.*
+*Open to product management and technical AI roles where operational thinking meets technical depth. If you care as much about "how it works in the real world" as "how it works in the demo," I'd love to talk.*
 
 🔗 [Portfolio](https://antomasini98.wixsite.com/portfolio)
 
